@@ -1,2 +1,7 @@
-# knn-classification
-knn algo for data classification fromscikit
+# Testing classification algorithms
+
+Following algorithms are compared:
+
+- SVM
+- tree
+- RandomForestClassifier
